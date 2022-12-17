@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="org.json">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.8.6/lib/org.json.jar!/" />
+      <root url="jar://$USER_HOME$/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/asm-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/aspectjtools-1.9.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/aspectjweaver-1.9.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/cglib-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/jackson-annotations-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/jackson-core-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/jackson-databind-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/jackson-datatype-joda-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/java-general-utilities-3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/java-secure-messaging-api-3.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/java-secure-messaging-providers-3.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/java-security-utilities-3.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/jcl-over-slf4j-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/joda-time-2.10.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/oval-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/slf4j-ext-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/spring-aop-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/spring-beans-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/spring-context-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/spring-context-support-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/spring-core-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/spring-expression-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../feedidea/spring-jcl-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.8.6/lib/h2-2.1.214.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.8.6/lib/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.8.6/lib/bcpg-jdk15to18-1.72.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-maven-3.8.6/lib/bcprov-jdk15to18-1.72.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
